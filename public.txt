@@ -1,0 +1,7 @@
+public class Percolation {
+	private int num;
+
+	public Percolation(int n){
+		num = n;
+	}
+}
